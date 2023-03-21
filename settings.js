@@ -15,30 +15,30 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.ANTI_BADWORD = 'true' // true of false
-global.AUTO_REACT = 'false' // true of false
+global.AUTO_REACT = 'true' // true of false
 global.INBOX_BLOCK_MSG ='BLOCK !!!'
 global.INBOX_BLOCK = 'off' //inbox block
-global.alivemsg = 'ᴅᴀʀᴋ-ɴᴇʀᴏ ʙᴏᴛ'
+global.alivemsg = '⇱ᴬˢ 𝐌𝐑. 𝐢 𝐁𝐎𝐘 ⦁ 𝐖𝐀-𝐁𝐎𝐓࿐'
 global.alivepic = 'https://i.ibb.co/zFYBPcQ/IMG-20230226-WA0115.jpg '
-global.owner = ['0786802371'] //ur owner number
-global.ownername = "kaveesha" //ur owner name
-global.ytname = "YT: Dark" //ur yt chanel name
+global.owner = ['0761676948'] //ur owner number
+global.ownername = "ᴬˢ 𝐌𝐑. 𝐢 𝐁𝐎𝐘" //ur owner name
+global.ytname = "YT: ඇරා boy" //ur yt chanel name
 global.socialm = "GitHub: Dark" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
 global.session = " " //session Id
-global.ownernomer = "94786802371" //ur number
+global.ownernomer = "94761676948" //ur number
 global.lang = "SI" //Select Language "EN" to English "SI" to sinhala 
-global.premium = ['94786802371'] //ur premium number
-global.botname = 'ᴅᴀʀᴋ-ɴᴇʀᴏ ᴡʜᴀᴛʜᴀᴘᴘ ʙᴏᴛ' //ur bot name
-global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
+global.premium = ['94761676948'] //ur premium number
+global.botname = '⇱ᴬˢ 𝐌𝐑. 𝐢 𝐁𝐎𝐘 ⦁ 𝐖𝐀-𝐁𝐎𝐓࿐' //ur bot name
+global.linkz = "https://chat.whatsapp.com/IT6mjqGINN6LaLSKnTZd6r" //your theme url which will be displayed on whatsapp
+global.websitex = "https://youtu.be/vcwrLsINRP8" //ur website to be displayed
 global.botscript = 'https://www.darknero.ga/' //script link
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Dark Nero By" //ur sticker watermark packname
-global.author = "Dark Nero Creating By Cyber Yakuza Team" //ur sticker watermark author
-global.wm = "Dark Bot Inc." //ur watermark
+global.packname = "⇱ᴬˢ 𝐌𝐑. 𝐢 𝐁𝐎𝐘 ⦁ 𝐖𝐀-𝐁𝐎𝐓࿐" //ur sticker watermark packname
+global.author = "⇱ᴬˢ 𝐌𝐑. 𝐢 𝐁𝐎𝐘 ⦁ 𝐖𝐀-𝐁𝐎𝐓࿐" //ur sticker watermark author
+global.wm = "⇱ᴬˢ 𝐌𝐑. 𝐢 𝐁𝐎𝐘 ⦁ 𝐖𝐀-𝐁𝐎𝐓" //ur watermark
 
 // Other
 global.sessionName = 'session'
